@@ -8,7 +8,7 @@ interface FolderProps {
 	open?: boolean;
 }
 
-const Folder: FC<FolderProps> = ({ folder, open }) => {
+const Folder: FC<FolderProps> = ({ folder, open = true }) => {
 	const [isOpen, setIsOpen] = useState(open);
 
 	const toggleFolder = () => {
