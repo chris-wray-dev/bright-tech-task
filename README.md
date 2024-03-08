@@ -1,10 +1,10 @@
 # To build this repo locally
 
-Clone the repositry using 'git clone https://github.com/chris-wray-dev/bright-tech-task.git'
-CD into folder - 'cd bright-tech-task'
-Run 'npm i' (this needs node version 17 or higher)
-Run 'npm run dev'
-This should now be up and running at the specified URL.
+-   Clone the repositry using 'git clone https://github.com/chris-wray-dev/bright-tech-task.git'
+-   CD into folder - 'cd bright-tech-task'
+-   Run 'npm i' (this needs node version 17 or higher)
+-   Run 'npm run dev'
+-   This should now be up and running at the specified URL.
 
 # Front-end task for Junior and Middleweight roles
 
